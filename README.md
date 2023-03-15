@@ -11,7 +11,7 @@
 - CGI
 
 ## 2. architecture
-![architecture](./imgsrc Diagram.png)
+![architecture](./imgsrc/Diagram.png)
 
 <br>
 
